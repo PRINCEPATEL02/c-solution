@@ -19,4 +19,12 @@
 |  |
 | ------- |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+## Math
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/PRINCEPATEL02/c-solution/tree/master/1518-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/PRINCEPATEL02/c-solution/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
