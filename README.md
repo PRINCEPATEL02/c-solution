@@ -7,6 +7,7 @@
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRINCEPATEL02/c-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PRINCEPATEL02/c-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Binary Search
 |  |
@@ -15,10 +16,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Counting
 |  |
 | ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Math
 |  |
@@ -36,4 +39,8 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PRINCEPATEL02/c-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
