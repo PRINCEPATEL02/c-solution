@@ -17,12 +17,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PRINCEPATEL02/c-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PRINCEPATEL02/c-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Counting
 |  |
 | ------- |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PRINCEPATEL02/c-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Math
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
+## String
+|  |
+| ------- |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PRINCEPATEL02/c-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 <!---LeetCode Topics End-->
