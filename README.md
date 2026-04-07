@@ -11,6 +11,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PRINCEPATEL02/c-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3842-toggle-light-bulbs](https://github.com/PRINCEPATEL02/c-solution/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PRINCEPATEL02/c-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3842-toggle-light-bulbs](https://github.com/PRINCEPATEL02/c-solution/tree/master/3842-toggle-light-bulbs) |
 ## Counting
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/PRINCEPATEL02/c-solution/tree/master/1518-water-bottles) |
+| [3842-toggle-light-bulbs](https://github.com/PRINCEPATEL02/c-solution/tree/master/3842-toggle-light-bulbs) |
 ## Stack
 |  |
 | ------- |
@@ -66,4 +69,5 @@
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1331-rank-transform-of-an-array) |
+| [3842-toggle-light-bulbs](https://github.com/PRINCEPATEL02/c-solution/tree/master/3842-toggle-light-bulbs) |
 <!---LeetCode Topics End-->
