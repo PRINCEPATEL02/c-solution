@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRINCEPATEL02/c-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0922-sort-array-by-parity-ii](https://github.com/PRINCEPATEL02/c-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PRINCEPATEL02/c-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -74,6 +75,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/PRINCEPATEL02/c-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1331-rank-transform-of-an-array) |
 | [3842-toggle-light-bulbs](https://github.com/PRINCEPATEL02/c-solution/tree/master/3842-toggle-light-bulbs) |
 ## Dynamic Programming
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/PRINCEPATEL02/c-solution/tree/master/1025-divisor-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/PRINCEPATEL02/c-solution/tree/master/0922-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->
