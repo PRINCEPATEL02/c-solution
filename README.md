@@ -13,6 +13,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PRINCEPATEL02/c-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/PRINCEPATEL02/c-solution/tree/master/2678-number-of-senior-citizens) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3842-toggle-light-bulbs](https://github.com/PRINCEPATEL02/c-solution/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
@@ -94,4 +95,9 @@
 |  |
 | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/PRINCEPATEL02/c-solution/tree/master/0922-sort-array-by-parity-ii) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+## Matrix
+|  |
+| ------- |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 <!---LeetCode Topics End-->
