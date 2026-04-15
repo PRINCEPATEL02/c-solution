@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRINCEPATEL02/c-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0922-sort-array-by-parity-ii](https://github.com/PRINCEPATEL02/c-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -83,6 +84,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/PRINCEPATEL02/c-solution/tree/master/1025-divisor-game) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/PRINCEPATEL02/c-solution/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Brainteaser
