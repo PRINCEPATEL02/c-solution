@@ -11,6 +11,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PRINCEPATEL02/c-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PRINCEPATEL02/c-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/PRINCEPATEL02/c-solution/tree/master/2678-number-of-senior-citizens) |
@@ -54,10 +55,12 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PRINCEPATEL02/c-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PRINCEPATEL02/c-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +91,7 @@
 | [0338-counting-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/PRINCEPATEL02/c-solution/tree/master/1025-divisor-game) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/PRINCEPATEL02/c-solution/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Brainteaser
 |  |
@@ -106,4 +110,8 @@
 |  |
 | ------- |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+## Greedy
+|  |
+| ------- |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
