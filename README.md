@@ -43,6 +43,7 @@
 | ------- |
 | [1025-divisor-game](https://github.com/PRINCEPATEL02/c-solution/tree/master/1025-divisor-game) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/PRINCEPATEL02/c-solution/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/PRINCEPATEL02/c-solution/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1518-water-bottles](https://github.com/PRINCEPATEL02/c-solution/tree/master/1518-water-bottles) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/PRINCEPATEL02/c-solution/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/PRINCEPATEL02/c-solution/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -91,6 +92,7 @@
 | [0338-counting-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/PRINCEPATEL02/c-solution/tree/master/1025-divisor-game) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/PRINCEPATEL02/c-solution/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/PRINCEPATEL02/c-solution/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Brainteaser
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Combinatorics
+|  |
+| ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/PRINCEPATEL02/c-solution/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 <!---LeetCode Topics End-->
