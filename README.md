@@ -10,6 +10,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/PRINCEPATEL02/c-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1331-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PRINCEPATEL02/c-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
@@ -35,6 +36,7 @@
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PRINCEPATEL02/c-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/0338-counting-bits) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 ## String
 |  |
@@ -85,6 +88,7 @@
 | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/PRINCEPATEL02/c-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1331-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3842-toggle-light-bulbs](https://github.com/PRINCEPATEL02/c-solution/tree/master/3842-toggle-light-bulbs) |
 ## Dynamic Programming
 |  |
