@@ -14,6 +14,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PRINCEPATEL02/c-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PRINCEPATEL02/c-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PRINCEPATEL02/c-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/PRINCEPATEL02/c-solution/tree/master/2678-number-of-senior-citizens) |
@@ -93,6 +94,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/PRINCEPATEL02/c-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PRINCEPATEL02/c-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3842-toggle-light-bulbs](https://github.com/PRINCEPATEL02/c-solution/tree/master/3842-toggle-light-bulbs) |
 ## Dynamic Programming
 |  |
@@ -136,6 +138,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PRINCEPATEL02/c-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
