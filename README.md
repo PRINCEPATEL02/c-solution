@@ -147,4 +147,8 @@
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/PRINCEPATEL02/c-solution/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
