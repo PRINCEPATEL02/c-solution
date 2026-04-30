@@ -56,6 +56,7 @@
 | [1518-water-bottles](https://github.com/PRINCEPATEL02/c-solution/tree/master/1518-water-bottles) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/PRINCEPATEL02/c-solution/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/PRINCEPATEL02/c-solution/tree/master/2806-account-balance-after-rounded-purchase) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PRINCEPATEL02/c-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/PRINCEPATEL02/c-solution/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Simulation
 |  |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/1137-n-th-tribonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PRINCEPATEL02/c-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
