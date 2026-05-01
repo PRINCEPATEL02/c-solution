@@ -22,6 +22,7 @@
 | [2678-number-of-senior-citizens](https://github.com/PRINCEPATEL02/c-solution/tree/master/2678-number-of-senior-citizens) |
 | [3074-apple-redistribution-into-boxes](https://github.com/PRINCEPATEL02/c-solution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/PRINCEPATEL02/c-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3842-toggle-light-bulbs](https://github.com/PRINCEPATEL02/c-solution/tree/master/3842-toggle-light-bulbs) |
@@ -56,6 +57,7 @@
 | [1518-water-bottles](https://github.com/PRINCEPATEL02/c-solution/tree/master/1518-water-bottles) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/PRINCEPATEL02/c-solution/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/PRINCEPATEL02/c-solution/tree/master/2806-account-balance-after-rounded-purchase) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/PRINCEPATEL02/c-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PRINCEPATEL02/c-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/PRINCEPATEL02/c-solution/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Simulation
