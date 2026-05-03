@@ -15,6 +15,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PRINCEPATEL02/c-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PRINCEPATEL02/c-solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PRINCEPATEL02/c-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PRINCEPATEL02/c-solution/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -115,6 +116,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/PRINCEPATEL02/c-solution/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PRINCEPATEL02/c-solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/PRINCEPATEL02/c-solution/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Brainteaser
