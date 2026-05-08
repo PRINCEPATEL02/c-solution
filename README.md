@@ -92,6 +92,7 @@
 | ------- |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PRINCEPATEL02/c-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2103-rings-and-rods](https://github.com/PRINCEPATEL02/c-solution/tree/master/2103-rings-and-rods) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2678-number-of-senior-citizens](https://github.com/PRINCEPATEL02/c-solution/tree/master/2678-number-of-senior-citizens) |
 ## Linked List
 |  |
