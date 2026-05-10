@@ -11,6 +11,7 @@
 | [0905-sort-array-by-parity](https://github.com/PRINCEPATEL02/c-solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/PRINCEPATEL02/c-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/PRINCEPATEL02/c-solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PRINCEPATEL02/c-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -56,6 +57,7 @@
 | ------- |
 | [1025-divisor-game](https://github.com/PRINCEPATEL02/c-solution/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/1137-n-th-tribonacci-number) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/PRINCEPATEL02/c-solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/PRINCEPATEL02/c-solution/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/PRINCEPATEL02/c-solution/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1518-water-bottles](https://github.com/PRINCEPATEL02/c-solution/tree/master/1518-water-bottles) |
