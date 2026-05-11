@@ -19,6 +19,7 @@
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/PRINCEPATEL02/c-solution/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PRINCEPATEL02/c-solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/PRINCEPATEL02/c-solution/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/PRINCEPATEL02/c-solution/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PRINCEPATEL02/c-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PRINCEPATEL02/c-solution/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -113,6 +114,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/PRINCEPATEL02/c-solution/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/PRINCEPATEL02/c-solution/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PRINCEPATEL02/c-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3074-apple-redistribution-into-boxes](https://github.com/PRINCEPATEL02/c-solution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3842-toggle-light-bulbs](https://github.com/PRINCEPATEL02/c-solution/tree/master/3842-toggle-light-bulbs) |
