@@ -23,6 +23,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PRINCEPATEL02/c-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PRINCEPATEL02/c-solution/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PRINCEPATEL02/c-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/PRINCEPATEL02/c-solution/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/PRINCEPATEL02/c-solution/tree/master/2678-number-of-senior-citizens) |
 | [3074-apple-redistribution-into-boxes](https://github.com/PRINCEPATEL02/c-solution/tree/master/3074-apple-redistribution-into-boxes) |
@@ -44,6 +45,7 @@
 | [2103-rings-and-rods](https://github.com/PRINCEPATEL02/c-solution/tree/master/2103-rings-and-rods) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PRINCEPATEL02/c-solution/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PRINCEPATEL02/c-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3842-toggle-light-bulbs](https://github.com/PRINCEPATEL02/c-solution/tree/master/3842-toggle-light-bulbs) |
 ## Counting
@@ -52,6 +54,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PRINCEPATEL02/c-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PRINCEPATEL02/c-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Math
 |  |
@@ -63,6 +66,7 @@
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/PRINCEPATEL02/c-solution/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1518-water-bottles](https://github.com/PRINCEPATEL02/c-solution/tree/master/1518-water-bottles) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/PRINCEPATEL02/c-solution/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PRINCEPATEL02/c-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/PRINCEPATEL02/c-solution/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/PRINCEPATEL02/c-solution/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PRINCEPATEL02/c-solution/tree/master/3232-find-if-digit-game-can-be-won) |
