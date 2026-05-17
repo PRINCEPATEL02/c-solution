@@ -182,6 +182,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/PRINCEPATEL02/c-solution/tree/master/0175-combine-two-tables) |
+| [0595-big-countries](https://github.com/PRINCEPATEL02/c-solution/tree/master/0595-big-countries) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/PRINCEPATEL02/c-solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/PRINCEPATEL02/c-solution/tree/master/1393-capital-gainloss) |
 | [1683-invalid-tweets](https://github.com/PRINCEPATEL02/c-solution/tree/master/1683-invalid-tweets) |
