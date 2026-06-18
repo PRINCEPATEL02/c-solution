@@ -61,6 +61,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/0009-palindrome-number) |
 | [1025-divisor-game](https://github.com/PRINCEPATEL02/c-solution/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/PRINCEPATEL02/c-solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
