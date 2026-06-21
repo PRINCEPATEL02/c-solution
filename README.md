@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRINCEPATEL02/c-solution/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRINCEPATEL02/c-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/0746-min-cost-climbing-stairs) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0189-rotate-array) |
 | [1025-divisor-game](https://github.com/PRINCEPATEL02/c-solution/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/PRINCEPATEL02/c-solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -154,6 +156,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/PRINCEPATEL02/c-solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/PRINCEPATEL02/c-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
