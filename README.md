@@ -17,6 +17,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PRINCEPATEL02/c-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1512-number-of-good-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/1512-number-of-good-pairs) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/PRINCEPATEL02/c-solution/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PRINCEPATEL02/c-solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -45,6 +46,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1331-rank-transform-of-an-array) |
+| [1512-number-of-good-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/1512-number-of-good-pairs) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PRINCEPATEL02/c-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2103-rings-and-rods](https://github.com/PRINCEPATEL02/c-solution/tree/master/2103-rings-and-rods) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1512-number-of-good-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/1512-number-of-good-pairs) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PRINCEPATEL02/c-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PRINCEPATEL02/c-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -69,6 +72,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/PRINCEPATEL02/c-solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/PRINCEPATEL02/c-solution/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/PRINCEPATEL02/c-solution/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1512-number-of-good-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/PRINCEPATEL02/c-solution/tree/master/1518-water-bottles) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/PRINCEPATEL02/c-solution/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PRINCEPATEL02/c-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
