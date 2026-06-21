@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRINCEPATEL02/c-solution/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRINCEPATEL02/c-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -102,6 +103,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/0338-counting-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
