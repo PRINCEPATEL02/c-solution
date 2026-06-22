@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRINCEPATEL02/c-solution/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/PRINCEPATEL02/c-solution/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/PRINCEPATEL02/c-solution/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0189-rotate-array) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRINCEPATEL02/c-solution/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/PRINCEPATEL02/c-solution/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -171,6 +173,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/PRINCEPATEL02/c-solution/tree/master/0073-set-matrix-zeroes) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/PRINCEPATEL02/c-solution/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Greedy
