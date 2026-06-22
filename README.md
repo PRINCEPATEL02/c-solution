@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRINCEPATEL02/c-solution/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/PRINCEPATEL02/c-solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/PRINCEPATEL02/c-solution/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/PRINCEPATEL02/c-solution/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/0136-single-number) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/PRINCEPATEL02/c-solution/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0189-rotate-array) |
 | [1025-divisor-game](https://github.com/PRINCEPATEL02/c-solution/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/1137-n-th-tribonacci-number) |
@@ -173,6 +175,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PRINCEPATEL02/c-solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/PRINCEPATEL02/c-solution/tree/master/0073-set-matrix-zeroes) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/PRINCEPATEL02/c-solution/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
