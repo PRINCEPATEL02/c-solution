@@ -20,6 +20,7 @@
 | [0905-sort-array-by-parity](https://github.com/PRINCEPATEL02/c-solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/PRINCEPATEL02/c-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1002-find-common-characters](https://github.com/PRINCEPATEL02/c-solution/tree/master/1002-find-common-characters) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/PRINCEPATEL02/c-solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -54,6 +55,7 @@
 | [0496-next-greater-element-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1002-find-common-characters](https://github.com/PRINCEPATEL02/c-solution/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/1512-number-of-good-pairs) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PRINCEPATEL02/c-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -121,6 +123,7 @@
 ## String
 |  |
 | ------- |
+| [1002-find-common-characters](https://github.com/PRINCEPATEL02/c-solution/tree/master/1002-find-common-characters) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PRINCEPATEL02/c-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2103-rings-and-rods](https://github.com/PRINCEPATEL02/c-solution/tree/master/2103-rings-and-rods) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
