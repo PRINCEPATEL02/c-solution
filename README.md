@@ -128,6 +128,7 @@
 | [0014-longest-common-prefix](https://github.com/PRINCEPATEL02/c-solution/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/PRINCEPATEL02/c-solution/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0796-rotate-string) |
 | [1002-find-common-characters](https://github.com/PRINCEPATEL02/c-solution/tree/master/1002-find-common-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/1903-largest-odd-number-in-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PRINCEPATEL02/c-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -248,4 +249,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PRINCEPATEL02/c-solution/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
