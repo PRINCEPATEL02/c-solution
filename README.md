@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRINCEPATEL02/c-solution/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/PRINCEPATEL02/c-solution/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/PRINCEPATEL02/c-solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/PRINCEPATEL02/c-solution/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/PRINCEPATEL02/c-solution/tree/master/0118-pascals-triangle) |
@@ -124,6 +125,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PRINCEPATEL02/c-solution/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0151-reverse-words-in-a-string) |
 | [1002-find-common-characters](https://github.com/PRINCEPATEL02/c-solution/tree/master/1002-find-common-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/1903-largest-odd-number-in-string) |
@@ -240,4 +242,8 @@
 |  |
 | ------- |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/PRINCEPATEL02/c-solution/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PRINCEPATEL02/c-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
