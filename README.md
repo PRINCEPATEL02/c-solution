@@ -123,6 +123,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0151-reverse-words-in-a-string) |
 | [1002-find-common-characters](https://github.com/PRINCEPATEL02/c-solution/tree/master/1002-find-common-characters) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PRINCEPATEL02/c-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2103-rings-and-rods](https://github.com/PRINCEPATEL02/c-solution/tree/master/2103-rings-and-rods) |
@@ -173,6 +174,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/PRINCEPATEL02/c-solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/PRINCEPATEL02/c-solution/tree/master/0922-sort-array-by-parity-ii) |
