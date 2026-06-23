@@ -88,6 +88,7 @@
 | [1512-number-of-good-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/PRINCEPATEL02/c-solution/tree/master/1518-water-bottles) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/PRINCEPATEL02/c-solution/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1903-largest-odd-number-in-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/1903-largest-odd-number-in-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PRINCEPATEL02/c-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/PRINCEPATEL02/c-solution/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/PRINCEPATEL02/c-solution/tree/master/2806-account-balance-after-rounded-purchase) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0151-reverse-words-in-a-string) |
 | [1002-find-common-characters](https://github.com/PRINCEPATEL02/c-solution/tree/master/1002-find-common-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/1903-largest-odd-number-in-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PRINCEPATEL02/c-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2103-rings-and-rods](https://github.com/PRINCEPATEL02/c-solution/tree/master/2103-rings-and-rods) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -191,6 +193,7 @@
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/PRINCEPATEL02/c-solution/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1903-largest-odd-number-in-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/1903-largest-odd-number-in-string) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/PRINCEPATEL02/c-solution/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/PRINCEPATEL02/c-solution/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/PRINCEPATEL02/c-solution/tree/master/3074-apple-redistribution-into-boxes) |
