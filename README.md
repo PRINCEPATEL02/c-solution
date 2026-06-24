@@ -81,6 +81,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/PRINCEPATEL02/c-solution/tree/master/0048-rotate-image) |
+| [0171-excel-sheet-column-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0189-rotate-array) |
 | [1025-divisor-game](https://github.com/PRINCEPATEL02/c-solution/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/1137-n-th-tribonacci-number) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PRINCEPATEL02/c-solution/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/PRINCEPATEL02/c-solution/tree/master/0242-valid-anagram) |
 | [0696-count-binary-substrings](https://github.com/PRINCEPATEL02/c-solution/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0796-rotate-string) |
