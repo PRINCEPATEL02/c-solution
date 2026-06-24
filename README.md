@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRINCEPATEL02/c-solution/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/PRINCEPATEL02/c-solution/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/PRINCEPATEL02/c-solution/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/PRINCEPATEL02/c-solution/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/PRINCEPATEL02/c-solution/tree/master/0451-sort-characters-by-frequency) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/PRINCEPATEL02/c-solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/PRINCEPATEL02/c-solution/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0189-rotate-array) |
@@ -130,6 +132,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/PRINCEPATEL02/c-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PRINCEPATEL02/c-solution/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/0171-excel-sheet-column-number) |
