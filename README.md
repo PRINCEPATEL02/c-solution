@@ -57,6 +57,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/PRINCEPATEL02/c-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/0560-subarray-sum-equals-k) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/PRINCEPATEL02/c-solution/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -136,6 +137,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/PRINCEPATEL02/c-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/PRINCEPATEL02/c-solution/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0796-rotate-string) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1002-find-common-characters](https://github.com/PRINCEPATEL02/c-solution/tree/master/1002-find-common-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/1903-largest-odd-number-in-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PRINCEPATEL02/c-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -171,6 +173,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRINCEPATEL02/c-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/0746-min-cost-climbing-stairs) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1025-divisor-game](https://github.com/PRINCEPATEL02/c-solution/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/PRINCEPATEL02/c-solution/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
