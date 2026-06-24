@@ -54,6 +54,7 @@
 | [0001-two-sum](https://github.com/PRINCEPATEL02/c-solution/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/PRINCEPATEL02/c-solution/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/PRINCEPATEL02/c-solution/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/PRINCEPATEL02/c-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -70,6 +71,7 @@
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PRINCEPATEL02/c-solution/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRINCEPATEL02/c-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/1512-number-of-good-pairs) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PRINCEPATEL02/c-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -131,6 +133,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/PRINCEPATEL02/c-solution/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/PRINCEPATEL02/c-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/PRINCEPATEL02/c-solution/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0796-rotate-string) |
 | [1002-find-common-characters](https://github.com/PRINCEPATEL02/c-solution/tree/master/1002-find-common-characters) |
@@ -151,6 +154,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/PRINCEPATEL02/c-solution/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/PRINCEPATEL02/c-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/PRINCEPATEL02/c-solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/PRINCEPATEL02/c-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -258,4 +262,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PRINCEPATEL02/c-solution/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PRINCEPATEL02/c-solution/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
