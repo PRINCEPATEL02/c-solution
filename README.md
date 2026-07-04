@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRINCEPATEL02/c-solution/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/PRINCEPATEL02/c-solution/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/PRINCEPATEL02/c-solution/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/PRINCEPATEL02/c-solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/PRINCEPATEL02/c-solution/tree/master/0073-set-matrix-zeroes) |
@@ -195,6 +196,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PRINCEPATEL02/c-solution/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0189-rotate-array) |
 | [0696-count-binary-substrings](https://github.com/PRINCEPATEL02/c-solution/tree/master/0696-count-binary-substrings) |
@@ -211,6 +213,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PRINCEPATEL02/c-solution/tree/master/0011-container-with-most-water) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/PRINCEPATEL02/c-solution/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1903-largest-odd-number-in-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/1903-largest-odd-number-in-string) |
