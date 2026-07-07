@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/PRINCEPATEL02/c-solution/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/PRINCEPATEL02/c-solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/PRINCEPATEL02/c-solution/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/PRINCEPATEL02/c-solution/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/PRINCEPATEL02/c-solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRINCEPATEL02/c-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/0136-single-number) |
@@ -159,6 +160,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/PRINCEPATEL02/c-solution/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/PRINCEPATEL02/c-solution/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/PRINCEPATEL02/c-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/PRINCEPATEL02/c-solution/tree/master/0905-sort-array-by-parity) |
@@ -197,6 +199,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PRINCEPATEL02/c-solution/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/PRINCEPATEL02/c-solution/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0189-rotate-array) |
 | [0696-count-binary-substrings](https://github.com/PRINCEPATEL02/c-solution/tree/master/0696-count-binary-substrings) |
