@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/PRINCEPATEL02/c-solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PRINCEPATEL02/c-solution/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/PRINCEPATEL02/c-solution/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/PRINCEPATEL02/c-solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/PRINCEPATEL02/c-solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PRINCEPATEL02/c-solution/tree/master/0075-sort-colors) |
@@ -49,6 +50,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRINCEPATEL02/c-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
