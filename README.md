@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRINCEPATEL02/c-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/PRINCEPATEL02/c-solution/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRINCEPATEL02/c-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -210,6 +211,7 @@
 | [0075-sort-colors](https://github.com/PRINCEPATEL02/c-solution/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/PRINCEPATEL02/c-solution/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/PRINCEPATEL02/c-solution/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/PRINCEPATEL02/c-solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/PRINCEPATEL02/c-solution/tree/master/0922-sort-array-by-parity-ii) |
