@@ -114,6 +114,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PRINCEPATEL02/c-solution/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PRINCEPATEL02/c-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PRINCEPATEL02/c-solution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/PRINCEPATEL02/c-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PRINCEPATEL02/c-solution/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/PRINCEPATEL02/c-solution/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/PRINCEPATEL02/c-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/PRINCEPATEL02/c-solution/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/PRINCEPATEL02/c-solution/tree/master/0242-valid-anagram) |
