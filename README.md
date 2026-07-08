@@ -50,6 +50,7 @@
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/PRINCEPATEL02/c-solution/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3842-toggle-light-bulbs](https://github.com/PRINCEPATEL02/c-solution/tree/master/3842-toggle-light-bulbs) |
+| [3843-first-element-with-unique-frequency](https://github.com/PRINCEPATEL02/c-solution/tree/master/3843-first-element-with-unique-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PRINCEPATEL02/c-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3842-toggle-light-bulbs](https://github.com/PRINCEPATEL02/c-solution/tree/master/3842-toggle-light-bulbs) |
+| [3843-first-element-with-unique-frequency](https://github.com/PRINCEPATEL02/c-solution/tree/master/3843-first-element-with-unique-frequency) |
 ## Counting
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/PRINCEPATEL02/c-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PRINCEPATEL02/c-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRINCEPATEL02/c-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3843-first-element-with-unique-frequency](https://github.com/PRINCEPATEL02/c-solution/tree/master/3843-first-element-with-unique-frequency) |
 ## Math
 |  |
 | ------- |
